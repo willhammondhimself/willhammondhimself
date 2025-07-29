@@ -27,8 +27,8 @@ Currently exploring the intersection of physics, mathematics, and software devel
 - **Mathematics**: Calculus, linear algebra, probability theory, differential equations
 
 ## 📫 Connect With Me
-- **Email**: [Your email here]
-- **LinkedIn**: [Your LinkedIn profile]
+- **Email**: whammond@students.pitzer.edu
+- **LinkedIn**: https://www.linkedin.com/in/willhammond
 - **GitHub**: You're already here! 😄
 
 ---
