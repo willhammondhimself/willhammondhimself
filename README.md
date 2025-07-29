@@ -5,12 +5,12 @@ I'm a second-year student at **Pitzer College** studying **Physics and Mathemati
 
 Currently exploring the intersection of physics, mathematics, and software development while building practical projects to deepen my understanding of these fields.
 
-## 🔭 What I'm Working On
+## 🛠️ What I'm Working On
 - **ML Trading Platform**: A real-time algorithmic trading system with machine learning integration
 - Mathematical modeling and data analysis projects
 - Learning advanced software development practices and system architecture
 
-## 🌱 Currently Learning
+## 📈 Currently Learning
 - Machine learning algorithms and their applications in finance
 - Real-time data processing and WebSocket implementations
 - Modern web development with React and Node.js
@@ -23,8 +23,8 @@ Currently exploring the intersection of physics, mathematics, and software devel
 **Areas of Interest**: Quantitative Finance, Machine Learning, Data Analysis, Physics Simulations  
 
 ## 📚 Academic Background
-- **Physics**: Mathematical modeling, statistical mechanics, computational physics
-- **Mathematics**: Calculus, linear algebra, probability theory, differential equations
+- **Physics**: Mechanics, Electricity and Magnetism, Modern Physics, Quantum Physics
+- **Mathematics**: Calculus I-III, Linear Algebra, Differential Equations, Discrete Math, Probability Theory
 
 ## 📫 Connect With Me
 - **Email**: whammond@students.pitzer.edu
