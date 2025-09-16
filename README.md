@@ -5,31 +5,9 @@ I'm a second-year student at **Pitzer College** studying **Physics and Mathemati
 
 Currently exploring the intersection of physics, mathematics, and software development while building practical projects to deepen my understanding of these fields.
 
-## 🛠️ What I'm Working On
-- **ML Trading Platform**: A real-time algorithmic trading system with machine learning integration
-- Mathematical modeling and data analysis projects
-- Learning advanced software development practices and system architecture
-
-## 📈 Currently Learning
-- Machine learning algorithms and their applications in finance
-- Real-time data processing and WebSocket implementations
-- Modern web development with React and Node.js
-- System architecture and microservices design
-- Mathematical modeling and quantitative analysis
-
-## 💼 Technical Skills
-**Languages**: Python, JavaScript, TypeScript, SQL  
-**Technologies**: React, Node.js, Docker, PostgreSQL, Redis  
-**Areas of Interest**: Quantitative Finance, Machine Learning, Data Analysis, Physics Simulations  
-
-## 📚 Academic Background
-- **Physics**: Mechanics, Electricity and Magnetism, Modern Physics, Quantum Physics
-- **Mathematics**: Calculus I-III, Linear Algebra, Differential Equations, Discrete Math, Probability Theory
-
 ## 📫 Connect With Me
 - **Email**: whammond@students.pitzer.edu
 - **LinkedIn**: https://www.linkedin.com/in/willhammond
-- **GitHub**: You're already here! 😄
 
 ---
 *Always learning, always building, always curious about how mathematics shapes our world.*
