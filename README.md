@@ -8,6 +8,3 @@ Currently exploring the intersection of physics, mathematics, and software devel
 ## 📫 Connect With Me
 - **Email**: whammond@students.pitzer.edu
 - **LinkedIn**: https://www.linkedin.com/in/willhammond
-
----
-*Always learning, always building, always curious about how mathematics shapes our world.*
