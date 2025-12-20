@@ -58,17 +58,17 @@ Simulation project for the 10,000 dice game looking at strategy and expected val
 **Main tools**
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=pytorch&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%2F%20SQLite-blue?logo=postgresql)
 
 **Currently learning**
 
 ![C++](https://img.shields.io/badge/C++-learning-informational?logo=cplusplus)
 ![FastAPI](https://img.shields.io/badge/FastAPI-learning-009688?logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-learning-4169E1?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%2F%20SQLite-blue?logo=postgresql)
 
 ## GitHub Stats
 
