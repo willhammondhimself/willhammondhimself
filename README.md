@@ -3,6 +3,10 @@
 ![Status](https://img.shields.io/badge/Open%20to-Quant%20Internships%202026%20&%202027-brightgreen?style=flat)
 ![Location](https://img.shields.io/badge/Base-Santa%20Barbara%2C%20CA-blue?style=flat)
 
+# Seeking 🔍
+
+Interested in quantitative trading and research internships in 2026 and 2027, especially options, market making, and systematic macro.
+
 ## About
 
 I'm a Physics, Math, and CS student at Pitzer who spends a lot of time across the street at Harvey Mudd learning and playing poker.
@@ -10,6 +14,12 @@ I'm a Physics, Math, and CS student at Pitzer who spends a lot of time across th
 Most of my work right now lives in an options volatility arbitrage platform: a C++ Heston pricer wrapped in a Python-based delta-neutural volatility arbitrage trading strategy, a FastAPI backend, and a React dashboard wired to SPY options data.
 
 Some things that are really important to me are: clear baselines, careful experiments, and code that another person could clone and run without fighting it.
+
+- Comfortable with stochastic calculus (Black Scholes, Heston, Greeks)
+
+- Heavy Python / C++ for numerics, profiling, and optimization
+
+- Happy living in pandas, NumPy, and writing tests around experiments
 
 ## Selected Projects
 
@@ -21,6 +31,8 @@ Full stack options vol arb system: C++ Heston FFT pricer, Python backtest librar
 - Sub‑millisecond pricing with C++ + pybind11 and an ~80% cache hit rate
 - Event‑driven backtester with walk‑forward validation, bootstrap tests, and 190+ tests
 - Built around SPY options data from 2019–2024
+
+[![Tests](https://github.com/willhammondhimself/adaptive-volatility-arbitrage/actions/workflows/tests.yml/badge.svg)](https://github.com/willhammondhimself/adaptive-volatility-arbitrage/actions/workflows/tests.yml)
 
 [Repo](https://github.com/willhammondhimself/adaptive-volatility-arbitrage)
 
@@ -55,20 +67,20 @@ Simulation project for the 10,000 dice game looking at strategy and expected val
 
 ## Tech
 
-**Main tools**
+**Day to day**
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%2F%20SQLite-blue?logo=postgresql)
+
+**Used in smaller projects**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?logo=tensorflow&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
-
-**Currently learning**
-
-![C++](https://img.shields.io/badge/C++-learning-informational?logo=cplusplus)
-![FastAPI](https://img.shields.io/badge/FastAPI-learning-009688?logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%2F%20SQLite-blue?logo=postgresql)
 
 ## GitHub Stats
 
