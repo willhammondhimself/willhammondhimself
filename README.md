@@ -22,7 +22,7 @@ Full stack options vol arb system: C++ Heston FFT pricer, Python backtest librar
 - Event‑driven backtester with walk‑forward validation, bootstrap tests, and 190+ tests
 - Built around SPY options data from 2019–2024
 
-[Repo](https://github.com/willhammondhimself/<VOL_ARB_REPO_NAME>)
+[Repo](https://github.com/willhammondhimself/adaptive-volatility-arbitrage)
 
 ### Trading Strategies
 
@@ -32,7 +32,7 @@ Collection of systematic trading experiments and prototypes.
 - Uses pandas / NumPy / scikit‑learn for signals and risk
 - Sandbox for ideas that may graduate into the main vol arb system
 
-[Repo](https://github.com/willhammondhimself/<TRADING_STRATS_REPO_NAME>)
+[Repo](https://github.com/willhammondhimself/Trading-Strategy-Challenges)
 
 ### Algo Explorer (Data Structures & Algorithms Final)
 
@@ -42,7 +42,7 @@ Interactive explorer for core algorithms and data structures.
 - Built with TypeScript and React as a data structures & algorithms final project
 - Written to be readable for other students, not just a one‑off assignment
 
-[Repo](https://github.com/willhammondhimself/<ALGO_EXPLORER_REPO_NAME>)
+[Repo](https://github.com/willhammondhimself/algo-explorer)
 
 ### 10,000 Dice Game
 
@@ -51,7 +51,7 @@ Simulation project for the 10,000 dice game looking at strategy and expected val
 - Compares brute‑force and heuristic strategies with Monte Carlo runs
 - Small, focused example of how I approach modeling and experimentation
 
-[Repo](https://github.com/willhammondhimself/<DICE_REPO_NAME>)
+[Repo](https://github.com/willhammondhimself/10-000-dice-game)
 
 ## Tech
 
