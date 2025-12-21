@@ -72,7 +72,7 @@ Simulation project for the 10,000 dice game looking at strategy and expected val
 
 ## GitHub Stats
 
-![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willhammondhimself&show_icons=true&theme=default&include_all_commits=true)
+![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willhammondhimself&show_icons=true&theme=default&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willhammondhimself&layout=compact&theme=default)
 
 ## Contact
