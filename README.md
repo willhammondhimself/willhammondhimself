@@ -15,7 +15,7 @@ Most of my work right now lives in an options volatility arbitrage platform: a C
 
 Some things that are really important to me are: clear baselines, careful experiments, and code that another person could clone and run without fighting it.
 
-- Comfortable with stochastic calculus (Black Scholes, Heston, Greeks)
+- Comfortable with stochastic-calculus-based economics (Black Scholes, Heston, Greeks)
 
 - Heavy Python / C++ for numerics, profiling, and optimization
 
