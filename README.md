@@ -68,19 +68,23 @@ Simulation project for the 10,000 dice game looking at strategy and expected val
 ## Tech
 
 ### Proficient in
-![Python](https://img.shields.io/badge/PYTHON-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![NumPy](https://img.shields.io/badge/NUMPY-013243?logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/PANDAS-150458?logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NUMPY-013243?logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/PANDAS-150458?logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white) ![LaTeX](https://img.shields.io/badge/LATEX-008080?logo=latex&logoColor=white)
 
 ### Currently learning
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/REDIS-DC382D?logo=redis&logoColor=white) ![Stochastic Calculus](https://img.shields.io/badge/STOCHASTIC_CALCULUS-000000?logo=&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/REDIS-DC382D?logo=redis&logoColor=white) ![Stochastic Calculus](https://img.shields.io/badge/STOCHASTIC_CALCULUS-000000?logoColor=white)
 
 ### Build apps using
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/SCIKIT_LEARN-F7931E?logo=scikitlearn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/REACT-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?logo=googlecloud&logoColor=white) ![pybind11](https://img.shields.io/badge/PYBIND11-00599C?logo=cplusplus&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/KERAS-D00000?logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/SCIKIT_LEARN-F7931E?logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/FLASK-000000?logo=flask&logoColor=white) ![React](https://img.shields.io/badge/REACT-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?logo=googlecloud&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/VERCEL-000000?logo=vercel&logoColor=white) ![pybind11](https://img.shields.io/badge/PYBIND11-00599C?logo=cplusplus&logoColor=white)
 
 ## GitHub Stats
 
-![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willhammondhimself&show_icons=true&theme=default&count_private=true&hide_rank=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=willhammondhimself&show_icons=true&theme=default&count_private=true&hide_rank=true" alt="Will's GitHub stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willhammondhimself&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willhammondhimself&layout=compact&theme=default" alt="Top Languages" />
+</p>
 
 ## Contact
 
