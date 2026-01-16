@@ -80,7 +80,7 @@ Simulation project for the 10,000 dice game looking at strategy and expected val
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=willhammondhimself&theme=dark)](https://git.io/streak-stats)
 
-<!-- TODO: Deploy own Vercel instance for full stats with private repos -->## Contact
+## Let's Connect!
 
 The best place to reach me is LinkedIn:
 
