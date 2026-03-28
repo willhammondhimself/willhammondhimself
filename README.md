@@ -8,7 +8,7 @@ Things that are important to me when I write code: clear baselines, careful expe
 
 ## Projects
 
-**[Adaptive Volatility Arbitrage](https://github.com/willhammondhimself/adaptive-volatility-arbitrage)** - Full-stack options volatility arbitrage system with a C++ Heston FFT pricer, Python backtest library, FastAPI backend, and React dashboard. Pricing runs sub-millisecond via pybind11. The backtester is event-driven with walk-forward validation and has over 190 tests. All built around SPY options data from 2019 to 2024.
+**[Adaptive Volatility Arbitrage](https://github.com/willhammondhimself/adaptive-volatility-arbitrage)** - Full-stack options volatility arbitrage system with a Heston FFT pricer, Python backtest library, FastAPI backend, and React dashboard. Pricing runs sub-millisecond via pybind11. The backtester is event-driven with walk-forward validation and has over 190 tests. All built around SPY options data from 2019 to 2024.
 
 **[QCML Geometric SDE](https://github.com/willhammondhimself/qcml-geometric-sde)** - A 48-page research paper on applying quantum geometry and topological methods to regime detection in financial markets. Contains 3 original theorems.
 
@@ -18,6 +18,6 @@ Things that are important to me when I write code: clear baselines, careful expe
 
 ## Background
 
-I'm comfortable with stochastic calculus (Black-Scholes, Heston, Greeks) and use Python and C++ heavily for numerics. I write tests around everything I build. I'm a member of the CMC Student Quant Fund and I'm currently taking graduate-level Mathematical Finance (MATH 358) and Quantum Mechanics.
+I'm comfortable with stochastic calculus (Black-Scholes, Heston, Greeks) and use Python heavily for numerics. I write tests around everything I build. I'm a member of the CMC Student Quant Fund and I'm currently taking graduate-level Mathematical Finance (MATH 358) and Quantum Mechanics.
 
 whammond@students.pitzer.edu · [LinkedIn](https://linkedin.com/in/willhammond)
