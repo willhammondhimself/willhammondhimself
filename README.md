@@ -1,8 +1,8 @@
 # Will Hammond
 
-Physics and math student at Pitzer College (Claremont Colleges '28). I split my time between research, building things, and taking classes across Harvey Mudd, Pomona, and CGU.
+Physics and math student at Pitzer College (Claremont Colleges '28). I split my time between research, building projects, and taking classes across Harvey Mudd, Pomona, and CGU.
 
-Right now I'm focused on two areas: **agentic AI systems** (multi-agent orchestration, LLM tool use, autonomous decision-making) and **geometric methods for machine learning** (applying Hilbert space geometry to real-world detection problems). I use Claude Code and multi-model workflows daily as core development tools, not just things I study.
+Right now I'm focused on two areas: **agentic AI systems** (multi-agent orchestration, LLM tool use, autonomous decision-making) and **geometric methods for machine learning** (applying Hilbert space geometry to real-world detection problems). I use Claude Code and multi-model workflows as core development tools.
 
 ## Research
 
@@ -18,6 +18,6 @@ Right now I'm focused on two areas: **agentic AI systems** (multi-agent orchestr
 
 ## Background
 
-I've worked at Perplexity AI (production RAG systems, LLM tooling) and Quanta Ventures Fund (LLM-based signal generation, quantitative research). I'm comfortable with stochastic calculus, quantum mechanics, and writing code that someone else can actually clone and run.
+I've worked at Perplexity AI (growth) and Quanta Ventures Fund (LLM-based signal generation, quantitative research). I'm comfortable with multivariable (and learning stochastic) calculus, quantum mechanics, and probability.
 
 whammond@students.pitzer.edu · [LinkedIn](https://linkedin.com/in/willhammond)
