@@ -18,6 +18,6 @@ Right now I'm focused on two areas: **agentic AI systems** (multi-agent orchestr
 
 ## Background
 
-I've interned at Perplexity AI (production RAG systems, LLM tooling) and Quanta Ventures Fund (LLM-based signal generation, quantitative research). I'm comfortable with stochastic calculus, quantum mechanics, and writing code that someone else can actually clone and run.
+I've worked at Perplexity AI (production RAG systems, LLM tooling) and Quanta Ventures Fund (LLM-based signal generation, quantitative research). I'm comfortable with stochastic calculus, quantum mechanics, and writing code that someone else can actually clone and run.
 
 whammond@students.pitzer.edu · [LinkedIn](https://linkedin.com/in/willhammond)
