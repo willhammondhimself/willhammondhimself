@@ -6,7 +6,7 @@ Right now I'm focused on two areas: **agentic AI systems** (multi-agent orchestr
 
 ## Research
 
-**[Geometric Observables for Financial Regime Detection](https://github.com/willhammondhimself/qcml-geometric-sde)** - Solo-authored research paper (3 theorems, 2 propositions) on using projective Hilbert space geometry for unsupervised regime detection. 46-method comparison across 17 historical crises, walk-forward evaluation, Friedman rank testing. Selected poster at the 2026 APS Global Physics Summit. Manuscript in preparation.
+**[Geometric Observables for Financial Regime Detection](https://github.com/willhammondhimself/qcml-geometric-sde)** — Solo-authored manuscript (3 theorems, 2 propositions) on projective Hilbert space geometry for unsupervised regime detection. Berry Phase Rate achieves walk-forward OOS Cohen's *d* = 0.72 [0.34, 1.18] with ~67% fewer false alarms than the Random Forest benchmark (1.2 vs 3.6/yr); orthogonality to classical baselines |ρ| ≈ 0.22. Full 46-method comparison across 17 historical crises (2000–2024), Friedman rank testing, 33/33 numerical claims pinned to canonical JSON. Selected poster at the 2026 APS Global Physics Summit.
 
 ## Projects
 
